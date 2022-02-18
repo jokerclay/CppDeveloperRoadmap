@@ -4,46 +4,46 @@
 
 C++ 仍然是[最流行的开发语言之一](https://insights.stackoverflow.com/survey/2021#technology-most-popular-technologies). 很多人想开始学习它并且成为一名 C++ 开发者。 他们面临这样一个问题：“我应该从哪里开始？我应该学习什么以及按什么顺序学习？我应该读什么书？”
 
-We tried to answer these questions in the presented roadmap. The map focuses on general competencies and skills that could be found in most projects. It is designed to help those who are just starting their education or have little experience. You can create a more productive learning plan without being distracted by side information if you study the set of listed materials. It will help you to master C++ at the level that is used in many commercial projects.
+我们试图在提出的成长路线图中回答这些问题。 该路线图聚焦于在大多数项目中可以找到的普遍竞争力和技能。 它旨在帮助那些刚刚开始接受教育或经验不足的人。 如果您参照如下材料，您可以创建一个更有效率的学习计划，而不会被附加信息分散注意力。 它将帮助您精通 C++ 达到企业级水平。
 
-在查看脑图之前，我们鼓励您阅读如下文章
+在查看成长路线图之前，我们鼓励您阅读如下文章
 
 # 文章
 
-1. [Why and what for the roadmap has been created?](English/Rationale.md)
-1. [Are you sure that you need C++?](English/SelfIdentification.md)
-1. [C++ - It's Not Rocket Science](English/FunCpp.md)
-1. [Application areas of C++](English/AreasOfApplication.md)
-1. [Myths and Legends of C++](English/Mythbusters.md)
-1. [Developers grading](English/Grades/Overview.md)
-1. [How to study?](English/HowToStudy.md)
-1. [Books and other resources about C++](English/Books/Overview.md)
-1. [Pet-project ideas](English/PetProjects.md)
-1. [Language toolkit](English/Tooling.md)
-1. [More resources about C++: documentation, community links, etc.](English/CommunitySources.md)
+1. [成长路线图创建的原因和内容？](Rationale.md)
+2. [你确定你需要 C++ 吗？](自我认识.md)
+3. [C++ - 它不是特别难](有趣的C++.md)
+4. [C++ 应用程序的应用领域](程序应用领域.md)
+5. [C++ 的传说和传奇](Mythbusters.md)
+6. [开发者的等级](层次/开发者大纲.md)
+7. [如何学习？](如何学习.md)
+8. [C++ 书籍和其他资源](书籍/Overview.md)
+9. [玩具级项目](玩具级项目.md)
+10. [语言工具箱](工具.md)
+11. [更多 C++ 资源: 文档, 社区链接, 等等.](社区资源.md)
 
 
 # 成长之路
 
 * [Miro - C++ Developer Roadmap](https://miro.com/app/board/o9J_lpap34Q=/)
-* [GraphML - C++ Developer Roadmap](English/Graph/roadmap.svg)
+* [GraphML - C++ Developer Roadmap](图表/roadmap.svg)
 
-More information on how to view and edit graphML file is stored [here](English/Graph/README.md)
+有关如何查看和编辑 graphML 文件的更多信息存储在[此处](图表/README.md)
 
 # 许可证和条款
-The roadmap is published under the license **CC BY-NC-SA 4.0**: [RUS](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru) || [ENG](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). In a nutshell:
+该路线图是在 **CC BY-NC-SA 4.0** 许可下发布的：[RUS](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru) || [ENG](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) || [ZH](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 。 简而言之:
 
-- You can share, adopt or copy any chunk of the presented materials only in case you share a link to the original sources
-- It's **PROHIBITED** to use any chunk of the materials with any commercial reason.
+- 只有附上原始链接，您才能分享、采用或复制所提供材料的任何部分。
+- **禁止**出于任何商业原因使用任何材料。
 
 
 # 反馈和交流
 
-In case of any remarks, proposals or ideas don't hesitate to contact us. We really appreciate your support :)
+如有任何意见、建议或想法，请随时与我们联系。 我们非常感谢您的支持 :)
 
-Please use one of the following paths via Github:
-- In case of any proposal or modification in the **repository** content - create a new PR in [Pull Requests](https://github.com/salmer/CppDeveloperRoadmap/pulls)
-- In case of any proposal or modification in the **repository** content - submit a new Issue in [Issues](https://github.com/salmer/CppDeveloperRoadmap/issues) (Unfortunately, the Miro framework doesn't support a history tracker and the access to the roadmap is limited. We add all changes manually after their review and acceptance)
+请通过 Github 使用以下路径之一：
+- 如果对**仓库**内容有任何提议或修改 - 创建一个PR在 [Pull Requests](https://github.com/salmer/CppDeveloperRoadmap/pulls)
+- 如果对**仓库**内容有任何提议或修改 - 提交一个新的 Issue 在 [Issues](https://github.com/salmer/CppDeveloperRoadmap/issues) (不幸的是，Miro 框架不支持历史跟踪器，并且对成长路线图的访问受到限制。 我们将在审核和接受后手动添加所有改动。)
 
 
 # 联系
