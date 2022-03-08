@@ -1,6 +1,6 @@
 # C++ 开发者之路
 
-## 其他语言: [Русский](Russian/README.md) [English](../README.md)
+## 其他语言: [Русский](..Russian/README.md) [English](../README.md)
 
 C++ 仍然是[最流行的开发语言之一](https://insights.stackoverflow.com/survey/2021#technology-most-popular-technologies). 很多人想开始学习它并且成为一名 C++ 开发者。 他们面临这样一个问题：“我应该从哪里开始？我应该学习什么以及按什么顺序学习？我应该读什么书？”
 

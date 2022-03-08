@@ -53,6 +53,7 @@ Creators:
 - [Evgenii Melnikov](https://github.com/salmer),
 - [Dmitriy Dmitriev](https://github.com/DmitrievDmitriyA),
 - [Dmitriy Savin](https://github.com/SD57)
+- [Clay Liu](https://github.com/jokerclay/)
 
 Reviewers:
 - [Sergey Tyulenev](https://github.com/marleeeeeey),
